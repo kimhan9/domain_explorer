@@ -33,6 +33,7 @@ var (
 		time.RFC1123Z,
 		time.RFC3339,
 		time.RFC3339Nano,
+		"2006-01-02 15:04:05", // Format for CN domain
 		"20060102", // lol registro.br
 	}
 )
